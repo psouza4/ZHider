@@ -1,0 +1,9 @@
+LIBRARY KBHOOK
+
+DESCRIPTION 'Keyboard Hook DLL for KbMacro'
+
+EXPORTS
+	KBHookProc
+	InstallKbHook
+        InstallKbHookInvisMode
+	UnInstallKbHook

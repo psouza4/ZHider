@@ -26,3 +26,19 @@
 *.exe
 *.out
 *.app
+
+# Extra
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.dsp
+*.dsw
+*.user
+
+Debug/*
+Release/*
+hooks/Debug/*
+hooks/Release/*
+hooks/TaskExHook/Debug/*
+hooks/TaskExHook/Release/*

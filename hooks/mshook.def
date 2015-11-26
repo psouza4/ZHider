@@ -1,0 +1,8 @@
+LIBRARY MSHOOK
+
+DESCRIPTION 'Mouse Hook DLL'
+
+EXPORTS
+        MSHookProc
+        InstallMsHook
+        UnInstallMsHook
